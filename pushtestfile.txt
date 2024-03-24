@@ -1,3 +1,7 @@
 This is the first file to push in github
 Editing from Github directly
+<<<<<<< Updated upstream
 second edit from github directly
+=======
+checking local update to check the pull
+>>>>>>> Stashed changes
