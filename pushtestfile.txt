@@ -1,1 +1,2 @@
 This is the first file to push in github
+Editing from Github directly
